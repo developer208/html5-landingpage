@@ -1,9 +1,5 @@
 # codedamn - HTML5 Massively Landing Page
 
-![Project Hosted link](http://htm5-landingpage.s3-website-us-east-1.amazonaws.com/)
-
-![Design for the project](https://raw.githubusercontent.com/codedamn-projects/html5-massively-landing-page/master/assets/desktop-design-non-fs.jpg)
-
 ## Hello developer!
 
 This is one of the many projects available on [codedamn](https://codedamn.com/projects) to reinforce your learning by building. If you want to become a frontend developer and learn by practicing, feel free to attempt this challenge. Feel free to check out the codedamn [frontend web developer learning path](https://codedamn.com/learning-paths) to learn more about how to become an awesome frontend developer.
@@ -40,3 +36,5 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 ## Send feedback!
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please visit [codedamn feedback page](https://codedamn.com/contact)
+
+## Thanks @codedamn !
